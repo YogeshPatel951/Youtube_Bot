@@ -1,0 +1,10 @@
+## perform processs in threads
+
+## task management:
+	--> if any task releases earlier assign new task and keey record
+	--> do not close browsers, rather surf youtube with other stuff
+	-->randomise everything
+
+## routine proxy checker
+
+##dead ip and alive ip separate list
